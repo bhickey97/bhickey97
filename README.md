@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🌱 I’m currently learning how to code
+</br>
+😄 I am excited to join the world of tech
+
+
 <!--
 **bhickey97/bhickey97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
